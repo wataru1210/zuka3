@@ -1,1 +1,2 @@
-# zuka3
+```mermaid
+flowchart LR
